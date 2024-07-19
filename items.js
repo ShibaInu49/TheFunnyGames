@@ -74,7 +74,9 @@ var melee =
 "plush cat",
 "bottle of glue",
 "toy robot",
-"microwave"];
+"microwave",
+"brass knuckles",
+"whip"];
 
 var itemsToFind =
 ["fruit tree",
@@ -110,7 +112,9 @@ var itemsToFind =
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
 "freeze ray",
-"findings"];
+"findings",
+"the holy bible",
+"a crate full of bread"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -118,7 +122,8 @@ var itemsThatGivePoints = [
 "glasses that cure color-blindness",
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
-"50% off coupon to an SAT prep class"];
+"50% off coupon to an SAT prep class",
+"a crate full of bread"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -277,7 +282,9 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray"];
+"freeze ray",
+"the holy bible",
+"a crate full of bread"];
 
 var misc =
 ["wanders around",
