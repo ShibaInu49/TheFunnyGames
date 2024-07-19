@@ -388,7 +388,7 @@ var variousDeaths =
 "withered away",
 "stream",
 "fatally roundhouse kicks",
-"receives a bad massage and dies",
+"receives a bad Bishan test and dies",
 "dies after a botched birthmark removal surgery",
 "curses on a Christian server and gets smote",
 "spontaneously combusts",
