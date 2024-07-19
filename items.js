@@ -8,8 +8,7 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank",
-"chainsaw"];
+"tank"];
 
 var melee =
 ["sword",
@@ -48,7 +47,15 @@ var melee =
 "plank of wood",
 "hammer",
 "camera",
-"staff"];
+"staff",
+"empty crate",
+"katana",
+"netherite sword",
+"netherite hoe",
+"diamond hoe",
+"chainsaw",
+"scythe",
+"big rock"];
 
 var itemsToFind =
 ["fruit tree",
@@ -209,7 +216,12 @@ var shelter =
 "Mcdonalds",
 "Wendys",
 "Arbys",
-"Chick Fil-a"];
+"Chick Fil-a",
+"playgound",
+"old shed",
+"underground bunker",
+"treehouse",
+"dirt mound"];
 
 var cornucopia =
 ["run",
@@ -248,7 +260,7 @@ var misc =
 ["wanders around",
 "picks flowers",
 "heils Hitler",
-"hails Hortler",
+"prays for their safety",
 "talks to",
 "drops a rant against",
 "levels up",
@@ -290,7 +302,8 @@ var misc =
 "finds Bishan Agrawal",
 "barrel rolls",
 "finds Dory",
-"finds Nemo"];
+"finds Nemo",
+"watches youtube videos"];
 
 var injury =
 ["gets a cold",
@@ -323,7 +336,8 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship"];
+"gets forced into fall mentorship",
+"gets dementia"];
 
 var injEffect =
 ["bow",
@@ -376,7 +390,9 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge"];
+"accepts the Blue Whale challenge",
+"looks at a picture of SCP-096",
+"gets tickled to death by"];
 
 var doubleDeath =
 ["strangles",
@@ -385,7 +401,8 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"];
+"succumbs to lethal peer pressure from"
+"gets tickled to death by"];
 
 var options =
 ["weapons",
