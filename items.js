@@ -31,34 +31,7 @@ var melee =
 "Victorian broadsword",
 "shortsword",
 "mace",
-"bottle of vodka",
-"indestructible flashlight",
-"empty backpack",
-"sack full of rocks",
-"wooden chair",
-"severed shark tail",
-"wooden sword",
-"battle axe",
-"severed robot arm",
-"giant stuffed bear",
-"keyboard",
-"metal pipe",
-"plastic fish",
-"plank of wood",
-"hammer",
-"camera",
-"staff",
-"empty crate",
-"katana",
-"netherite sword",
-"netherite hoe",
-"diamond hoe",
-"chainsaw",
-"scythe",
-"big rock",
-"machete",
-"butcher's knife",
-"math textbook"];
+"bottle of vodka"];
 
 var itemsToFind =
 ["fruit tree",
@@ -206,26 +179,7 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel",
-"tomb",
-"wooden shack",
-"burning house",
-"small castle",
-"giant ant hill",
-"haunted house",
-"white van",
-"portapotty",
-"phone booth",
-"Mcdonalds",
-"Wendys",
-"Arbys",
-"Chick Fil-a",
-"playgound",
-"old shed",
-"underground bunker",
-"treehouse",
-"dirt mound",
-"air mattress"];
+"brothel"];
 
 var cornucopia =
 ["run",
@@ -264,7 +218,7 @@ var misc =
 ["wanders around",
 "picks flowers",
 "heils Hitler",
-"prays for their safety",
+"hails Hortler",
 "talks to",
 "drops a rant against",
 "levels up",
@@ -342,7 +296,7 @@ var injury =
 "gets forced into fall mentorship"];
 
 var injEffect =
-["bow", do 
+["bow",
 "injures",
 "melee",
 "injures",
@@ -392,9 +346,7 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge",
-"looks at a picture of SCP-096",
-"is mauled to death by a cougar"];
+"accepts the Blue Whale challenge"];
 
 var doubleDeath =
 ["strangles",
