@@ -306,8 +306,7 @@ var misc =
 "finds Bishan Agrawal",
 "barrel rolls",
 "finds Dory",
-"finds Nemo",
-"watches youtube videos"];
+"finds Nemo"];
 
 var injury =
 ["gets a cold",
