@@ -401,7 +401,7 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"
+"succumbs to lethal peer pressure from",
 "gets tickled to death by"];
 
 var options =
