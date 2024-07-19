@@ -399,7 +399,6 @@ var variousDeaths =
 "succumbs to lethal peer pressure from",
 "accepts the Blue Whale challenge",
 "looks at a picture of SCP-096",
-"gets tickled to death by",
 "is mauled to death by a cougar"];
 
 var doubleDeath =
@@ -409,8 +408,7 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from",
-"gets tickled to death by"];
+"succumbs to lethal peer pressure from"];
 
 var options =
 ["weapons",
