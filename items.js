@@ -306,7 +306,8 @@ var misc =
 "finds Bishan Agrawal",
 "barrel rolls",
 "finds Dory",
-"finds Nemo"];
+"finds Nemo",
+"finds Waldo"];
 
 var injury =
 ["gets a cold",
@@ -314,7 +315,7 @@ var injury =
 "gets mono",
 "gets strep throat",
 "loses 0.13 GPA points, and is severely injured",
-"is stung by BEES",
+"is stung by bees",
 "battles and wounds",
 "sends a mass mail",
 "goes deaf due to Jake Paul",
@@ -339,7 +340,11 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship"];
+"gets forced into fall mentorship",
+"gets demetia",
+"gets M.A.D.",
+"is stung by a wasp",
+"is biten by a wolf"];
 
 var injEffect =
 ["bow", do 
@@ -394,7 +399,8 @@ var variousDeaths =
 "succumbs to lethal peer pressure from",
 "accepts the Blue Whale challenge",
 "looks at a picture of SCP-096",
-"is mauled to death by a cougar"];
+"is mauled to death by a cougar",
+"gets tickled to death by"];
 
 var doubleDeath =
 ["strangles",
@@ -403,7 +409,8 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"];
+"succumbs to lethal peer pressure from",
+"gets tickled to death by"];
 
 var options =
 ["weapons",
