@@ -8,7 +8,8 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank"];
+"tank",
+"chainsaw"];
 
 var melee =
 ["sword",
@@ -31,7 +32,23 @@ var melee =
 "Victorian broadsword",
 "shortsword",
 "mace",
-"bottle of vodka"];
+"bottle of vodka",
+"indestructible flashlight",
+"empty backpack",
+"sack full of rocks",
+"wooden chair",
+"severed shark tail",
+"wooden sword",
+"battle axe",
+"severed robot arm",
+"giant stuffed bear",
+"keyboard",
+"metal pipe",
+"plastic fish",
+"plank of wood",
+"hammer",
+"camera",
+"staff"];
 
 var itemsToFind =
 ["fruit tree",
@@ -179,7 +196,20 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+"brothel",
+"tomb",
+"wooden shack",
+"burning house",
+"small castle",
+"giant ant hill",
+"haunted house",
+"white van",
+"portapotty",
+"phone booth",
+"Mcdonalds",
+"Wendys",
+"Arbys",
+"Chick Fil-a"];
 
 var cornucopia =
 ["run",
