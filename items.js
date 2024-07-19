@@ -55,7 +55,10 @@ var melee =
 "diamond hoe",
 "chainsaw",
 "scythe",
-"big rock"];
+"big rock",
+"machete",
+"butcher's knife",
+"math textbook"];
 
 var itemsToFind =
 ["fruit tree",
@@ -221,7 +224,8 @@ var shelter =
 "old shed",
 "underground bunker",
 "treehouse",
-"dirt mound"];
+"dirt mound",
+"air mattress"];
 
 var cornucopia =
 ["run",
@@ -337,10 +341,13 @@ var injury =
 "develops stage 4 brain cancer",
 "gets necrosis",
 "gets forced into fall mentorship",
-"gets dementia"];
+"gets dementia",
+"gets M.A.D.",
+"is stung by a wasp",
+"is biten by a wolf"];
 
 var injEffect =
-["bow",
+["bow", do 
 "injures",
 "melee",
 "injures",
@@ -381,7 +388,7 @@ var variousDeaths =
 "withered away",
 "stream",
 "fatally roundhouse kicks",
-"receives a bad Bishan test and dies",
+"receives a bad massage and dies",
 "dies after a botched birthmark removal surgery",
 "curses on a Christian server and gets smote",
 "spontaneously combusts",
@@ -392,7 +399,8 @@ var variousDeaths =
 "succumbs to lethal peer pressure from",
 "accepts the Blue Whale challenge",
 "looks at a picture of SCP-096",
-"gets tickled to death by"];
+"gets tickled to death by",
+"is mauled to death by a cougar"];
 
 var doubleDeath =
 ["strangles",
