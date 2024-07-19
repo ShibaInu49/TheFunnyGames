@@ -339,11 +339,7 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship",
-"gets dementia",
-"gets M.A.D.",
-"is stung by a wasp",
-"is biten by a wolf"];
+"gets forced into fall mentorship"];
 
 var injEffect =
 ["bow", do 
