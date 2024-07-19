@@ -8,7 +8,8 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank"];
+"tank",
+"chainsaw"];
 
 var melee =
 ["sword",
@@ -19,7 +20,7 @@ var melee =
 "potato",
 "shoe",
 "dead platypus",
-"65",
+"netherite sword",
 "diamond sword",
 "dual swords",
 "TI-Nspire",
@@ -31,7 +32,22 @@ var melee =
 "Victorian broadsword",
 "shortsword",
 "mace",
-"bottle of vodka"];
+"bottle of vodka",
+"indestructible flashlight",
+"empty backpack",
+"sack full of rocks",
+"wooden chair",
+"severed shark tail",
+"wooden sword"
+"battle axe",
+"severed robot arm",
+"giant stuffed bear",
+"keyboard",
+"metal pipe",
+"plastic fish",
+"plank of wood",
+"hammer",
+"camera"];
 
 var itemsToFind =
 ["fruit tree",
@@ -67,7 +83,9 @@ var itemsToFind =
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
 "freeze ray",
-"findings"];
+"findings",
+"the holy bible",
+"a crate full of bread"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -75,7 +93,8 @@ var itemsThatGivePoints = [
 "glasses that cure color-blindness",
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
-"50% off coupon to an SAT prep class"];
+"50% off coupon to an SAT prep class",
+"a crate full of bread"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -120,8 +139,8 @@ var causeAndEffect =
 "pets the pink fluffy unicorn",
 "spiritual enlightenment in a Villanova brochure",
 "sees the light and adheres to the all-boy advantage",
-"Agrawal star",
-"jealousy",
+"the holy bible",
+"studies the holy word",
 "diamond pickaxe",
 "mines diamond ore",
 "bone-hurting juice",
@@ -143,7 +162,9 @@ var causeAndEffect =
 "email",
 "dies of shame after being kicked off the finance team",
 "findings",
-"becomes the most successful paleontologist from Vatican City"];
+"becomes the most successful paleontologist from Vatican City",
+"a crate full of bread",
+"eats a loaf of bread whole"];
 
 var killCauseAndEffect =
 ["landmine",
@@ -165,7 +186,9 @@ var killCauseAndEffect =
 "frisbee",
 "decapitates",
 "tank",
-"murders"];
+"murders",
+"chainsaw",
+"saws in half"];
 
 var shelter =
 ["cave",
@@ -179,7 +202,17 @@ var shelter =
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+"brothel",
+"tomb",
+"wooden shack",
+"burning house",
+"small castle",
+"giant ant hill",
+"haunted house",
+"white van",
+"portapotty",
+"phone booth",
+""];
 
 var cornucopia =
 ["run",
@@ -202,7 +235,6 @@ var sponsor =
 "anthology of life-changing poems",
 "quenched and tempered steel",
 "VIP ticket to Tana Mojo concert",
-"Agrawal star",
 "Lapras",
 "diamond pickaxe",
 "Stalin mustache",
@@ -212,20 +244,22 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray"];
+"freeze ray",
+"the holy bible",
+"a crate full of bread"];
 
 var misc =
 ["wanders around",
 "picks flowers",
 "heils Hitler",
-"hails Hortler",
+"prays to a god",
 "talks to",
 "drops a rant against",
 "levels up",
 "sings us a song",
 "is the sheriff",
 "plays some pranks (GONE WRONG GONE SEXUAL)",
-"realizes maverick isn't all yellow",
+"realizes limes and lemons are not the same thing",
 "loses the game",
 "cries",
 "has nightmares",
@@ -233,31 +267,31 @@ var misc =
 "runs out of ammunition",
 "is accused of mansplaining",
 "Disney star takes",
-"gets doxxed by keemstar",
+"gets doxxed by a youtuber",
 "hides in a river",
 "hides from",
 "eats",
 "attaches a measuring tape to a toaster",
-"gains Disney Channel flo",
+"gains white boy rapper skills",
 "sings opera",
-"blames Nelson",
+"blames themself",
 "becomes a literary artist",
 "complains about a test grade",
-"catches 22",
+"catches a falling leaf",
 "catches in the rye",
-"raises the mission requirement to 65",
+"raises the mission requirement",
 "tries to post a Vine",
 "logs",
 "changes genders",
 "email",
-"yells \"NikhilYA!\"",
+"yells \"PENIS!\"",
 "finds Pepe",
 "finds Chuck Norris",
 "puts chemicals in the water to turn the frogs gay",
 "fights the Ender dragon",
 "watches WatchMojo for 3 hours",
 "joins the Society of Teen Suicide Prevention",
-"finds Bishan Agrawal",
+"finds a rock",
 "barrel rolls",
 "finds Dory",
 "finds Nemo"];
@@ -293,7 +327,9 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship"];
+"gets forced into fall mentorship",
+"gets jumpscared",
+"gets dementia"];
 
 var injEffect =
 ["bow",
@@ -309,7 +345,11 @@ var injEffect =
 "fidget spinner",
 "spins fidget spinner nonfatally at",
 "assault rifle",
-"shoots and grazes"];
+"shoots and grazes",
+"sack full of rocks",
+"knocks out",
+"chainsaw",
+"scars"];
 
 var variousDeaths =
 ["strangles",
@@ -321,7 +361,7 @@ var variousDeaths =
 "hangs",
 "decides to take a permanent nap",
 "falls off a cliff while playing Pokemon Go",
-"yells \"woag wiag wiag\" at",
+"yells \"YOUR ADOPTED\" at",
 "gets nuked from orbit by",
 "chokes on crabapples in cheeks",
 "forgets how to breathe",
@@ -337,7 +377,7 @@ var variousDeaths =
 "withered away",
 "stream",
 "fatally roundhouse kicks",
-"receives a bad Bishan test and dies",
+"receives a bad massage and dies",
 "dies after a botched birthmark removal surgery",
 "curses on a Christian server and gets smote",
 "spontaneously combusts",
@@ -346,7 +386,9 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge"];
+"accepts the Blue Whale challenge",
+"looks at a picture of SCP-096",
+"gets tickled to death by"];
 
 var doubleDeath =
 ["strangles",
@@ -355,7 +397,9 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"];
+"succumbs to lethal peer pressure from",
+"gets pushed off a mountain by",
+"gets tickled to death by"];
 
 var options =
 ["weapons",
