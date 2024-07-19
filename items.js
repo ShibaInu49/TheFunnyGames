@@ -58,7 +58,23 @@ var melee =
 "big rock",
 "machete",
 "butcher's knife",
-"math textbook"];
+"math textbook",
+"bucket of paint",
+"roll of flex tape",
+"bucket of rubber ducks",
+"giant broccoli",
+"tv remote",
+"plush octopus",
+"broom",
+"mop",
+"dead crow",
+"ball of yarn",
+"half of a broken door",
+"bag of rubber bands",
+"plush cat",
+"bottle of glue",
+"toy robot",
+"microwave"];
 
 var itemsToFind =
 ["fruit tree",
@@ -225,7 +241,10 @@ var shelter =
 "underground bunker",
 "treehouse",
 "dirt mound",
-"air mattress"];
+"air mattress",
+"broken down SUV",
+"derailed train",
+"empty grave"];
 
 var cornucopia =
 ["run",
@@ -289,14 +308,14 @@ var misc =
 "blames Nelson",
 "becomes a literary artist",
 "complains about a test grade",
-"catches 22",
+"catches Covid",
 "catches in the rye",
 "raises the mission requirement to 65",
 "tries to post a Vine",
 "logs",
 "changes genders",
 "email",
-"yells \"NikhilYA!\"",
+"yells \"HELP ME!\"",
 "finds Pepe",
 "finds Chuck Norris",
 "puts chemicals in the water to turn the frogs gay",
@@ -307,7 +326,13 @@ var misc =
 "barrel rolls",
 "finds Dory",
 "finds Nemo",
-"finds Waldo"];
+"finds Waldo",
+"watches youtube videos",
+"catches a falling leaf",
+"squashes a bug",
+"meets a friendly spider",
+"finds a crab",
+"gets cursed by a friendly spirit"];
 
 var injury =
 ["gets a cold",
@@ -344,7 +369,8 @@ var injury =
 "gets demetia",
 "gets M.A.D.",
 "is stung by a wasp",
-"is biten by a wolf"];
+"is biten by a wolf",
+"gets cursed by a angry spirit"];
 
 var injEffect =
 ["bow", do 
@@ -400,7 +426,14 @@ var variousDeaths =
 "accepts the Blue Whale challenge",
 "looks at a picture of SCP-096",
 "is mauled to death by a cougar",
-"gets tickled to death by"];
+"gets tickled to death by",
+"is mauled to death by a bear",
+"gets raped to death by a werewolf",
+"falls through the 4th wall",
+"activates a tripwire and explodes",
+"falls into a pit of spikes",
+"falls into a pool of lava",
+"underestimates and is killed by"];
 
 var doubleDeath =
 ["strangles",
@@ -410,7 +443,8 @@ var doubleDeath =
 "uses dank memes to kill",
 "fatally roundhouse kicks",
 "succumbs to lethal peer pressure from",
-"gets tickled to death by"];
+"gets tickled to death by",
+"underestimates and is killed by"];
 
 var options =
 ["weapons",
