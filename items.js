@@ -112,9 +112,7 @@ var itemsToFind =
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
 "freeze ray",
-"findings",
-"the holy bible",
-"a crate full of bread"];
+"findings"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -122,8 +120,7 @@ var itemsThatGivePoints = [
 "glasses that cure color-blindness",
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
-"50% off coupon to an SAT prep class",
-"a crate full of bread"];
+"50% off coupon to an SAT prep class"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -282,9 +279,7 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray",
-"the holy bible",
-"a crate full of bread"];
+"freeze ray"];
 
 var misc =
 ["wanders around",
@@ -339,7 +334,8 @@ var misc =
 "squashes a bug",
 "meets a friendly spider",
 "finds a crab",
-"gets cursed by a friendly spirit"];
+"gets cursed by a friendly spirit",
+"questions their sanity"];
 
 var injury =
 ["gets a cold",
@@ -377,7 +373,7 @@ var injury =
 "gets M.A.D.",
 "is stung by a wasp",
 "is biten by a wolf",
-"gets cursed by a angry spirit"];
+"gets cursed by an angry spirit"];
 
 var injEffect =
 ["bow", do 
