@@ -8,7 +8,8 @@ var weapons =
 "fidget spinner",
 "assault rifle",
 "frisbee",
-"tank"];
+"tank",
+"pillow"];
 
 var melee =
 ["sword",
@@ -36,7 +37,12 @@ var melee =
 "hockey stick",
 "frozen baguette",
 "kebab skewer",
-"balloon sword"];
+"balloon sword",
+"mailbox",
+"stop sign",
+"caution sign",
+"piece of wood",
+"metal pipe"];
 
 var itemsToFind =
 ["fruit tree",
@@ -76,7 +82,11 @@ var itemsToFind =
 "pokeball",
 "microwave",
 "mini fridge",
-"backpack full of supplies"];
+"backpack full of supplies",
+"live sheep",
+"briefcase full of money",
+"christmas present",
+"animal mask"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -162,7 +172,15 @@ var causeAndEffect =
 "mini fridge",
 "uses a mini fridge like a backpack",
 "backpack full of supplies",
-"is ready to survive"];
+"is ready to survive",
+"live sheep",
+"snuggles up with a sheep",
+"briefcase full of money",
+"enjoys there money in peace",
+"christmas present",
+"received a loaf of bread for christmas",
+"animal mask",
+"blends in with nature"];
 
 var killCauseAndEffect =
 ["landmine",
@@ -184,7 +202,11 @@ var killCauseAndEffect =
 "frisbee",
 "decapitates",
 "tank",
-"murders"];
+"murders",
+"pillow",
+"smothers",
+"chainsaw",
+"saws"];
 
 var shelter =
 ["cave",
@@ -204,7 +226,17 @@ var shelter =
 "Chick-fil-a",
 "Taco Bell",
 "Wendy's",
-"cabin in the woods"];
+"cabin in the woods",
+"abandoned amuesment park",
+"treehouse",
+"telephone booth",
+"broken down car",
+"Freddy Fazbear's Pizzeria",
+"shipwreck",
+"derailed train",
+"McDonalds"
+"underground bomb proof shelter",
+"air mattress"];
 
 var cornucopia =
 ["run",
@@ -238,13 +270,15 @@ var sponsor =
 "stick of Old Spice deodorant",
 "freeze ray",
 "pokeball",
-"backpack full of supplies"];
+"backpack full of supplies",
+"christmas present",
+"animal mask"];
 
 var misc =
 ["wanders around",
 "picks flowers",
 "heils Hitler",
-"hails Hortler",
+"thinks about before this moment in time",
 "talks to",
 "drops a rant against",
 "levels up",
@@ -258,7 +292,7 @@ var misc =
 "stabs asparagus",
 "runs out of ammunition",
 "is accused of mansplaining",
-"Disney star takes",
+"gets doxxed by sssniperwolf",
 "gets doxxed by keemstar",
 "hides in a river",
 "hides from",
@@ -266,7 +300,7 @@ var misc =
 "attaches a measuring tape to a toaster",
 "gains Disney Channel flo",
 "sings opera",
-"blames Nelson",
+"blames global warming",
 "becomes a literary artist",
 "complains about a test grade",
 "catches a flying baseball",
@@ -289,7 +323,9 @@ var misc =
 "finds Nemo",
 "screams at max volume",
 "remembers nine eleven",
-"drops a diss track against"];
+"drops a diss track against",
+"figures out the answer to 9 + 10",
+"hides behind a tree"];
 
 var injury =
 ["gets a cold",
@@ -326,7 +362,8 @@ var injury =
 "starts to hallucinate",
 "gets a concussion",
 "is attacked by a horde of bullet ants",
-"slips on a pile of vomit"];
+"slips on a pile of vomit",
+"gets dementia"];
 
 var injEffect =
 ["bow",
@@ -371,7 +408,7 @@ var variousDeaths =
 "stream",
 "fatally roundhouse kicks",
 "receives a bad Bishan test and dies",
-"dies after a botched birthmark removal surgery",
+"dies after a botched surgery",
 "curses on a Christian server and gets smote",
 "spontaneously combusts",
 "lost connection to the server",
@@ -382,7 +419,11 @@ var variousDeaths =
 "accepts the Blue Whale challenge",
 "breaks the laws of physics",
 "is decapitated by a rogue frisbee",
-"is crushed by a crashing plane"];
+"is crushed by a crashing plane",
+"is killed by a rhino",
+"is struck by lightning",
+"is so constipated that they explode and die",
+"\'s skull is crushed by the thighs of"];
 
 var doubleDeath =
 ["strangles",
