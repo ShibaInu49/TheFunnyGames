@@ -33,7 +33,10 @@ var melee =
 "mace",
 "bottle of vodka",
 "spear",
-"hockey stick"];
+"hockey stick",
+"frozen baguette",
+"kebab skewer",
+"balloon sword"];
 
 var itemsToFind =
 ["fruit tree",
@@ -70,7 +73,10 @@ var itemsToFind =
 "stick of Old Spice deodorant",
 "freeze ray",
 "gnome",
-"pokeball"];
+"pokeball",
+"microwave",
+"mini fridge",
+"backpack full of supplies"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -79,7 +85,8 @@ var itemsThatGivePoints = [
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
 "50% off coupon to an SAT prep class",
-"pokeball"];
+"pokeball",
+"backpack full of supplies"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -149,7 +156,13 @@ var causeAndEffect =
 "gnome",
 "\'s gnome explodes",
 "pokeball",
-"catches a squirrel in a pokeball"];
+"catches a squirrel in a pokeball",
+"microwave",
+"puts some random fungi in a microwave",
+"mini fridge",
+"uses a mini fridge like a backpack",
+"backpack full of supplies",
+"is ready to survive"];
 
 var killCauseAndEffect =
 ["landmine",
@@ -186,14 +199,18 @@ var shelter =
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
 "abandoned camper van",
-"large sandcastle"];
+"large sandcastle",
+"derelict manor",
+"Chick-fil-a",
+"Taco Bell",
+"Wendy's",
+"cabin in the woods"];
 
 var cornucopia =
 ["run",
 "supply",
 "weapon",
-"battle"
-];
+"battle"];
 
 var sponsor =
 ["empty box",
@@ -219,7 +236,9 @@ var sponsor =
 "indescribable object",
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
-"freeze ray"];
+"freeze ray",
+"pokeball",
+"backpack full of supplies"];
 
 var misc =
 ["wanders around",
@@ -267,7 +286,10 @@ var misc =
 "finds Elon Musk",
 "barrel rolls",
 "finds Dory",
-"finds Nemo"];
+"finds Nemo",
+"screams at max volume",
+"remembers nine eleven",
+"drops a diss track against"];
 
 var injury =
 ["gets a cold",
@@ -300,7 +322,11 @@ var injury =
 "gets an ulcer",
 "develops stage 4 brain cancer",
 "gets necrosis",
-"gets forced into fall mentorship"];
+"gets forced into fall mentorship",
+"starts to hallucinate",
+"gets a concussion",
+"is attacked by a horde of bullet ants",
+"slips on a pile of vomit"];
 
 var injEffect =
 ["bow",
