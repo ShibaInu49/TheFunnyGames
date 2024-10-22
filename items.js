@@ -19,19 +19,21 @@ var melee =
 "potato",
 "shoe",
 "dead platypus",
-"65",
+"toaster",
 "diamond sword",
 "dual swords",
-"TI-Nspire",
+"long stick",
 "folding chair",
 "steam controller",
 "pear",
-"war axe",
+"battle axe",
 "greatsword",
 "Victorian broadsword",
 "shortsword",
 "mace",
-"bottle of vodka"];
+"bottle of vodka",
+"spear",
+"hockey stick"];
 
 var itemsToFind =
 ["fruit tree",
@@ -50,7 +52,7 @@ var itemsToFind =
 "tent",
 "biology textbook",
 "bucket of KFC",
-"tin of Donald Trump's bronzer",
+"empty bucket of KFC",
 "Emoji Movie on laserdisc",
 "anthology of life-changing poems",
 "quenched and tempered steel",
@@ -67,7 +69,8 @@ var itemsToFind =
 "chocolate-covered cotton",
 "stick of Old Spice deodorant",
 "freeze ray",
-"findings"];
+"gnome",
+"pokeball"];
 
 var itemsThatGivePoints = [
 "fruit tree",
@@ -75,7 +78,8 @@ var itemsThatGivePoints = [
 "glasses that cure color-blindness",
 "anthology of life-changing poems",
 "stick of Old Spice deodorant",
-"50% off coupon to an SAT prep class"];
+"50% off coupon to an SAT prep class",
+"pokeball"];
 
 var causeAndEffect =
 ["fruit tree",
@@ -106,8 +110,8 @@ var causeAndEffect =
 "reads a biology textbook and falls asleep",
 "bucket of KFC",
 "eats KFC",
-"tin of Donald Trump's bronzer",
-"becomes as orange as Donald Trump and dies of chemical poisoning",
+"empty bucket of KFC",
+"is sad that they don't have KFC",
 "Emoji Movie on laserdisc",
 "dies of pure cancer after watching the Emoji Movie",
 "anthology of life-changing poems",
@@ -120,8 +124,8 @@ var causeAndEffect =
 "pets the pink fluffy unicorn",
 "spiritual enlightenment in a Villanova brochure",
 "sees the light and adheres to the all-boy advantage",
-"Agrawal star",
-"jealousy",
+"box of pizza",
+"eats an entire pizza",
 "diamond pickaxe",
 "mines diamond ore",
 "bone-hurting juice",
@@ -142,8 +146,10 @@ var causeAndEffect =
 "freezes",
 "email",
 "dies of shame after being kicked off the finance team",
-"findings",
-"becomes the most successful paleontologist from Vatican City"];
+"gnome",
+"\'s gnome explodes",
+"pokeball",
+"catches a squirrel in a pokeball"];
 
 var killCauseAndEffect =
 ["landmine",
@@ -172,14 +178,15 @@ var shelter =
 "tree",
 "cardboard box",
 "geometrically stable truss",
-"House of the Seven Gables",
+"old shack",
 "horse carcass",
 "igloo",
 "Olive Garden",
 "couch",
 "sleeping bag",
 "queen-sized bed with a memory foam mattress and furnished headrest",
-"brothel"];
+"abandoned camper van",
+"large sandcastle"];
 
 var cornucopia =
 ["run",
@@ -197,12 +204,12 @@ var sponsor =
 "tent",
 "biology textbook",
 "bucket of KFC",
-"tin of Donald Trump's bronzer",
+"empty bucket of KFC",
 "Emoji Movie on laserdisc",
 "anthology of life-changing poems",
 "quenched and tempered steel",
 "VIP ticket to Tana Mojo concert",
-"Agrawal star",
+"box of pizza",
 "Lapras",
 "diamond pickaxe",
 "Stalin mustache",
@@ -243,21 +250,21 @@ var misc =
 "blames Nelson",
 "becomes a literary artist",
 "complains about a test grade",
-"catches 22",
+"catches a flying baseball",
 "catches in the rye",
 "raises the mission requirement to 65",
 "tries to post a Vine",
 "logs",
 "changes genders",
 "email",
-"yells \"NikhilYA!\"",
+"yells \"HAAAAAA!\"",
 "finds Pepe",
 "finds Chuck Norris",
 "puts chemicals in the water to turn the frogs gay",
 "fights the Ender dragon",
 "watches WatchMojo for 3 hours",
 "joins the Society of Teen Suicide Prevention",
-"finds Bishan Agrawal",
+"finds Elon Musk",
 "barrel rolls",
 "finds Dory",
 "finds Nemo"];
@@ -346,7 +353,10 @@ var variousDeaths =
 "falls in a well",
 "dies in the Matrix",
 "succumbs to lethal peer pressure from",
-"accepts the Blue Whale challenge"];
+"accepts the Blue Whale challenge",
+"breaks the laws of physics",
+"is decapitated by a rogue frisbee",
+"is crushed by a crashing plane"];
 
 var doubleDeath =
 ["strangles",
@@ -355,7 +365,9 @@ var doubleDeath =
 "gets memed to death by",
 "uses dank memes to kill",
 "fatally roundhouse kicks",
-"succumbs to lethal peer pressure from"];
+"succumbs to lethal peer pressure from",
+"drops a boulder on",
+"is annoyed to death by"];
 
 var options =
 ["weapons",
